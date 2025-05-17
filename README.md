@@ -1,1 +1,0 @@
-# SCINT_Linux_course
